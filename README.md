@@ -87,4 +87,4 @@ LoRa-Puck-PCB
 
 **Manish Vanjari**
 
-GitHub: https://github.com/Manish-Datrik
+GitHub: [https://github.com/Manish-Datrik](https://github.com/Manish-Datrik/LoRa-Puck.git)
